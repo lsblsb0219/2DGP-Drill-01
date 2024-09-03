@@ -2,4 +2,7 @@ hello, world
 이수빈
 thankyou
 iloveyou
+
+DAY2 - Hello
+
 gg
